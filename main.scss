@@ -228,7 +228,7 @@ $grid-gutter-widths: (
 $font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
 $font-family-serif:      Georgia, "Times New Roman", Times, serif !default;
 $font-family-monospace:  Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
-$font-family-base:       "Raleway", sans-serif,'Microsoft JhengHei', sans-serif;
+$font-family-base:       Raleway, sans-serif,'Microsoft JhengHei, sans-serif;
 
 // Pixel value used to responsively scale all typography. Applied to the `<html>` element.
 $font-size-root: 16px !default;
